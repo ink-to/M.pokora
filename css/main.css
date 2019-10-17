@@ -442,12 +442,12 @@ table {
 #modalPrivacy {
     background: #fff;
     text-align: center;
-    top: 25%;
+    top: 30%;
     bottom: 20%;
     padding:10px 20px !important;
     margin: 20px;
     border-radius: 3px;
-	height: 280px;
+	height: 230px;
 }
 #modalPrivacy p {
   font-size: 13px;
@@ -460,6 +460,7 @@ table {
 }
 #modalPrivacy h3 {
     font-size: 17px;
+    margin-top: 10px;
 }
 #modalPrivacy .small {
     font-size: 12px;
