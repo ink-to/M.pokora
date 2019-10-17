@@ -461,6 +461,9 @@ table {
 #modalPrivacy h3 {
     font-size: 17px;
 }
+#modalPrivacy #small {
+    font-size: 12px;
+}
 #modalPrivacy .btn-primary{
 	  width: 100%;
     padding: 10px;
