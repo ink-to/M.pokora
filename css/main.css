@@ -458,6 +458,9 @@ table {
     color: #2895f3;
     text-decoration: none;
 }
+#modalPrivacy h3 {
+    font-size: 17px;
+}
 #modalPrivacy .btn-primary{
 	  width: 100%;
     padding: 10px;
