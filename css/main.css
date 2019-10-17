@@ -103,12 +103,8 @@ a:focus, button:focus,span:focus, p:focus,div:focus {
   border-radius:50px;
   transition-duration:0.2s;
   transition-timing-function: cubic-bezier(0, -0.55, 0.265, 1.55);
-  
-  background: #53b7cf;
-  background: -moz-linear-gradient(45deg, #53b7cf 0%, #30b6d7  100%);
-  background: -webkit-linear-gradient(45deg, #53b7cf 0%,#30b6d7  100%);
-  background: linear-gradient(45deg, #53b7cf 0%,#30b6d7  100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#53b7cf', endColorstr='#30b6d7 ',GradientType=1 );
+  background-color: #d70069;
+ 
 }
 .main-container {
   position: absolute;
@@ -623,7 +619,7 @@ body {
     width: 62px;
     height: 62px;
     display: block;
-    background-color: #53b7cf;
+    background-color: #d70069;
     border-radius: 50%;
     position: relative;
 	display:block;
