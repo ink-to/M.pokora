@@ -865,12 +865,17 @@ body {
 	.menu-tab {
 		font-size: 12px;
 	}
+  .music-form {
+  top:381.156px;
+}
 }
 
 @media screen and (max-width:320px){
 	 .menu-tab {
 		font-size: 10px;
 	}
+  .music-form {
+  top:381.156px;
 }
 @media screen and (max-width:920px) and (orientation:portrait) {	
   body, html {	 
@@ -879,6 +884,8 @@ body {
 	.bg-image {
 		display:none;
 	}
+  .music-form {
+  top:381.156px;
 }
 @media all and (-webkit-min-device-pixel-ratio:0) and (min-resolution: .001dpcm) and (max-width:920px) { 
   .selector:not(*:root), body, html {
@@ -887,6 +894,8 @@ body {
   body, html {	 
 		height: 92vh;
 	}
+  .music-form {
+  top:381.156px;
 }
 
 /* 1792x828px at 326ppi iPhone XR*/
@@ -904,6 +913,8 @@ body {
 		width: auto !important;
 		min-width: 82px;
 	}
+  .music-form {
+  top:381.156px;
 }
 	
 
@@ -922,6 +933,8 @@ body {
 		width: auto !important;
 		min-width: 80px;
 	}
+  .music-form {
+  top:381.156px;
 }
 
 
@@ -941,6 +954,8 @@ body {
 		width: auto !important;
 		min-width: 82px;
 	}
+  .music-form {
+  top:381.156px;
 }
 @media all and (min--moz-device-pixel-ratio:0) { @media (min-width: 0px) {
 	body, html {
