@@ -515,7 +515,7 @@ table {
   margin-bottom: 25px;
   position: relative;
 }
-.popup-form form .form-group #last{
+.popup-form form .form-group .last{
   margin-bottom: 15px;
   position: relative;
 }
