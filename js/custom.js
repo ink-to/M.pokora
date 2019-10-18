@@ -14,6 +14,7 @@ player = new YT.Player('player', {
   height: '390',
   width: '640',
   playerVars: {
+  		playlist: 'HX5l5DxmmBw',
 		'autoplay': 0,
 		'controls': 0,
 		'autohide': 0,
