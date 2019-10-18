@@ -603,8 +603,8 @@ font-weight: 900;
   visibility: visible;
   display:inline !important;
 }
-.music-form .content-area {
-	top:513px;
+.music-form {
+	top:303px;
 }
 .message img{
   width: 20px;
