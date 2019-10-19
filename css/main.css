@@ -511,12 +511,12 @@ table {
 .popup-form form{
   color: #fff;
 }
-.popup-form form .form-group{
-  margin-bottom: 25px;
+.mail{
+  margin-bottom: 15px;
   position: relative;
 }
-.email{
-  margin-bottom: 15px;
+.popup-form form .form-group{
+  margin-bottom: 25px;
   position: relative;
 }
 .popup-form form label{
