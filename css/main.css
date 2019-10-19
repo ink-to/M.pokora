@@ -515,10 +515,7 @@ table {
   margin-bottom: 25px;
   position: relative;
 }
-.popup-form form .email{
-  margin-bottom: 15px;
-  position: relative;
-}
+
 .popup-form form label{
   width: 100%;
   font-size: 16px;
