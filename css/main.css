@@ -155,6 +155,17 @@ a:focus, button:focus,span:focus, p:focus,div:focus {
 .sub-header.hide{
   display: none;
 }
+.overlay {
+    content: ' ';
+	background: rgb(255,255,255); 
+	background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(68,68,68,0.5) 50%, rgba(0,0,0,0.35) 75%, rgba(0,0,0,0.5) 100%);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    bottom: 0px;
+
+}
 .sub-header .slick-list{
     overflow: visible;
 }
@@ -635,6 +646,12 @@ font-weight: 900;
 body {
   background-color: #000;
 }
+.nextBtn, .prevBtn {
+    display: inline-block;
+    position: relative;
+    padding: 0px 15px;
+    top: -17px;
+}
 .playBtn {
     border: solid 2px #fff;
     width: 62px;
@@ -643,8 +660,7 @@ body {
     background-color: #d70069;
     border-radius: 50%;
     position: relative;
-	display:block;
-	margin:0 auto;
+	display:inline-block;
     z-index: 580;
     text-decoration: none;
     cursor: pointer;    
